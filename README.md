@@ -11,3 +11,4 @@ project will serve as template and documentation on the lifecycle of application
 
 # Technologies
 1.    **Database** (Postgres): will allow to store and query data efficently and scalably 
+2.    **Cache & Message Database** (Redis): will store (1) many rest api applications will cache results (2) messages for database etls,etc
