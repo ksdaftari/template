@@ -1,4 +1,4 @@
-# template
+# template-application-lifecycle
 project will serve as template and documentation for making a full stack application 
 
 # Application Requirements
