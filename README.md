@@ -1,7 +1,7 @@
 # template
 project will serve as template and documentation for making a full stack application 
 
-# DevOps
+# Application Requirements
 
 1.    **Documenation** (Attlasian Confluence): will offer more high level documenation on application. Remember application may have many different repositoris to make up the entire application so having a single space for more high level documentation is key 
 2.    **Task Management** (Attlasian JIRA): assigned unit of work represented in a ticket that will track state is in work flow (eg To-Do, In-Progress, Code Complete, Verification, Done). Each ticket will be attached to a feature,bug,etc being worked on. 
