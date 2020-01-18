@@ -1,5 +1,5 @@
 # template-application-lifecycle
-project will serve as template and documentation for making a full stack application 
+project will serve as template and documentation on the lifecycle of application from creating requirement to deploying to each environment. With recommendations of technologies to use
 
 # Application Requirements
 
