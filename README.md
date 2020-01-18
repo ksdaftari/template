@@ -10,4 +10,4 @@ project will serve as template and documentation on the lifecycle of application
 5.    **Deploying Application** (Docker): will bundle up all the system requirements for application, so can easily install and run application on different computers
 
 # Technologies
-1.    **Database** (Postgres): open-source relational database 
+1.    **Database** (Postgres): will allow to store and query data efficently 
