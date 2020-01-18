@@ -1,3 +1,6 @@
+# Below is example .gitignore which are files that will may be created during program process but not commited to repository. 
+# The example below is a template for python project
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
