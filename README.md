@@ -10,5 +10,6 @@ project will serve as template and documentation on the lifecycle of application
 5.    **Deploying Application** (Docker): will bundle up all the system requirements for application, so can easily install and run application on different computers
 
 # Technologies
-1.    **Database** (Postgres): will allow to store and query data efficently and scalably 
-2.    **Cache & Message Database** (Redis): will store (1) many rest api applications will cache results (2) messages for database etls,etc
+1.    **Database** (Postgres): will allow to store and query data efficently and scalably. Will store the core application data
+2.    **Cache** (Redis): simple scalable key value store largely. Highly helpful in caching webapi results
+3.    **Message Broker** (RabbitMQ): will store messages that other apps can use to act on. Useful to make database etls event based
