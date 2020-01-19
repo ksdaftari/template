@@ -11,5 +11,5 @@ project will serve as template and documentation on the lifecycle of application
 
 # Technologies
 1.    **Database** (Postgres): will allow to store and query data efficently and scalably. Will store the core application data
-2.    **Cache** (Redis): simple scalable key value store largely. Highly helpful in caching webapi results
+2.    **Cache** (Redis or Memcached): simple scalable key value store largely. Highly helpful in caching webapi results
 3.    **Message Broker** (RabbitMQ): will store messages that other apps can use to act on. Useful to make database etls event based
